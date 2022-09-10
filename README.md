@@ -1,7 +1,7 @@
-# Resuelvo ejercicio de practica 
+# Resuelvo ejercicios de práctica 
 
 ## Ejercicio 1
-Enunciacion:
+Enunciación:
 Dada una cadena de texto, darle la vuelta e invertir el orden de sus caracteres, sin usar metodos propios del lenguaje, solo estructuras de control.
 
 
@@ -18,7 +18,7 @@ Como hacerlo:
 
 ## Ejercicio 2
 
-Enunciacion: Dada una palabra, buscarla en una frase y devolver cuantas veces aparece en ella.
+Enunciación: Dada una palabra, buscarla en una frase y devolver cuantas veces aparece en ella.
 La fradse y la palabra deben ser parametros de una funcion.
 
 Ejemplos: 
