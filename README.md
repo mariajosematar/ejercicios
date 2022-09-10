@@ -24,7 +24,7 @@ La fradse y la palabra deben ser parametros de una funcion.
 Ejemplos: 
 
 coincidencias("hola soy una palabra en una frase, PALABRA.", "palabra") // Devuelve: 2
-coincidencias("soy la frase", "victor") // dEVUELVE 0
+coincidencias("soy la frase", "maj") // dEVUELVE 0
 
 Como hacerlo:
 
