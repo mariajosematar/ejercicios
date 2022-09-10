@@ -6,7 +6,7 @@ La fradse y la palabra deben ser parametros de una funcion.
 Ejemplos: 
 
 coincidencias("hola soy una palabra en una frase, PALABRA.", "palabra") // Devuelve: 2
-coincidencias("soy la frase", "victor") // dEVUELVE 0
+coincidencias("soy la frase", "maji") // dEVUELVE 0
 
 Como hacerlo:
 
@@ -52,5 +52,5 @@ function coincidencias(frase, busqueda){
 console.log(
     "Numero de coincidencias en la frase: ",
 coincidencias("Hola, que tal, soy Maji Matar. maji maji","matar"),
-coincidencias("Esta es mi frase","holi")
+coincidencias("Esta es mi frase","hola")
 );
