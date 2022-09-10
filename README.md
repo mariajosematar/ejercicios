@@ -1,5 +1,6 @@
 # Resuelvo ejercicio de practica 
 
+## Ejercicio 1
 Enunciacion:
 Dada una cadena de texto, darle la vuelta e invertir el orden de sus caracteres, sin usar metodos propios del lenguaje, solo estructuras de control.
 
@@ -14,4 +15,28 @@ Como hacerlo:
 - Crear una variable para guardar la cadena invertida
 - Bucle que recorra el string y guarde los caracteres en la variable.
 
-Espero que pueda servirle a otro desarrollador!
+
+## Ejercicio 2
+
+Enunciacion: Dada una palabra, buscarla en una frase y devolver cuantas veces aparece en ella.
+La fradse y la palabra deben ser parametros de una funcion.
+
+Ejemplos: 
+
+coincidencias("hola soy una palabra en una frase, PALABRA.", "palabra") // Devuelve: 2
+coincidencias("soy la frase", "victor") // dEVUELVE 0
+
+Como hacerlo:
+
+- Funcion con dos parametros "frase" y "busqueda"
+- Poner string en minusculas y limpiarlo
+- Comprobar si la busqueda esta incluida en la frase
+- Crear un array de palabras de la frase
+- Mapear esas palabras y hacer un contador de cada una
+- Devolver el contador de la busqueda
+
+
+
+
+
+### Espero que pueda servirte!
